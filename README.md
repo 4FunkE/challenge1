@@ -18,9 +18,9 @@ No installation is needed. Please follow the uniform resource locator to interac
 ## Usage
 This is a preview of the website page and information on the website.
 
-    ```md
-    ![alt text](images/Website-Image.jpg)
-    ```
+'''
+![alt-text](/images/Website-Image.jpg)
+'''
 
 ## Credits
 
