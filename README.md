@@ -1,17 +1,10 @@
-# <Your-Project-Title>
+# <Challenge1 Horiseon Refactor>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The Horiseon marketing agency needed to refactor its website. This means I needed to improve the code without changing the website to make it more accessible. Making the code more accessible ensures that all users can use assistive technology or interact with the page more easily. I worked to make the starter code have semantic HTML and CSS. Organizing the code to be more accessible use.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,48 +13,37 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+No installation is needed. Please follow the uniform resource locator to interact with the webpage. 
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+This is a preview of the website page and information on the website.
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](images/Website-Image.jpg)
     ```
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+I worked in a group with Christina Feland, Joseph Rudasill, and Isaiah Jordan
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+- https://github.com/TheWiseSailor
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+MIT License
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+N/A
 
 ## Features
 
-If your project has a lot of features, list them here.
+N/A
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+N/A
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+N/A
