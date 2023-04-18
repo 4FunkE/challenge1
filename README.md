@@ -1,4 +1,4 @@
-# <Challenge1 Horiseon Refactor>
+# Challenge1 Horiseon Refactor
 
 ## Description
 
