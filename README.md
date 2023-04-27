@@ -13,14 +13,14 @@ The Horiseon marketing agency needed to refactor its website. This means I neede
 
 ## Installation
 
-No installation is needed. Please follow the uniform resource locator to interact with the webpage. 
+No installation is needed. Please follow the uniform resource locator to interact with the webpage. https://4funke.github.io/challenge1/
 
 ## Usage
 This is a preview of the website page and information on the website.
 
 '''
-![alt-text](/images/Website-Image.jpg)
-'''
+ ![alt-text](/images/Website-Image.jpg)
+ '''
 
 ## Credits
 
